@@ -86,25 +86,3 @@ If you prefer to use a local MongoDB instance:
 ├── styles/           # Additional styles
 └── package.json      # Project dependencies
 ```
-
-## API Endpoints
-
-The backend includes the following example endpoints:
-
-- `GET /api/health` - Health check endpoint
-- `GET /api/hello` - Example GET endpoint
-- `POST /api/data` - Example POST endpoint
-
-## Learn More
-
-To learn more about the technologies used in this boilerplate:
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Node.js Documentation](https://nodejs.org/docs)
-- [Express.js Documentation](https://expressjs.com/)
-- [MongoDB Documentation](https://docs.mongodb.com/)
-
-## License
-
-MIT 
